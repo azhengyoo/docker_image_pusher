@@ -1,2 +1,2 @@
 redis
-mysql：8.4.0
+mysql:8.4.0
