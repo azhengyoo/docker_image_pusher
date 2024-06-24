@@ -1,4 +1,4 @@
 redis
 mysql:8.4.0
 python:3.8-slim
-Python:3.10.12
+python:3.10.12
