@@ -4,3 +4,4 @@ python:3.8-slim
 python:3.10.12
 axllent/mailpit
 nginx:1.21.6
+rabbitMQ:4.0
