@@ -5,3 +5,4 @@ python:3.10.12
 axllent/mailpit
 nginx:1.21.6
 rabbitmq:4.0
+cucker/get_command_4_run_container
