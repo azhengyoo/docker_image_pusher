@@ -6,3 +6,4 @@ axllent/mailpit
 nginx:1.21.6
 rabbitmq:4.0
 cucker/get_command_4_run_container
+apache/hadoop:3.3.6
